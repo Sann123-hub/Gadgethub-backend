@@ -1,0 +1,329 @@
+✓ MongoDB connected: ac-albrink-shard-00-00.axhrswa.mongodb.net/gadgethub
+✓ Gadget Hub API running on http://localhost:5000 (development)
+[0mGET /api/health [32m200[0m 5.856 ms - 56[0m
+[0mPOST /api/auth/login [32m200[0m 914.485 ms - 649[0m
+[0mPOST /api/products [33m403[0m 116.434 ms - 83[0m
+[0mPOST /api/auth/login [32m200[0m 932.351 ms - 657[0m
+[0mPOST /api/products [33m422[0m 156.566 ms - 505[0m
+[0mDELETE /api/products/000000000000000000000000 [33m404[0m 255.371 ms - 264[0m
+[0mOPTIONS /api/products?limit=24&sort=popularity [32m204[0m 0.153 ms - 0[0m
+[0mOPTIONS /api/orders/mine?page=1&limit=1 [32m204[0m 0.086 ms - 0[0m
+[0mOPTIONS /api/auth/me [32m204[0m 0.058 ms - 0[0m
+[0mOPTIONS /api/products?limit=24&sort=popularity [32m204[0m 0.107 ms - 0[0m
+[0mOPTIONS /api/orders/mine?page=1&limit=1 [32m204[0m 0.065 ms - 0[0m
+[0mOPTIONS /api/auth/me [32m204[0m 0.058 ms - 0[0m
+[0mGET /api/auth/me [36m304[0m 746.896 ms - -[0m
+[0mOPTIONS /api/cart [32m204[0m 0.213 ms - 0[0m
+[0mOPTIONS /api/wishlist [32m204[0m 4.913 ms - 0[0m
+[0mGET /api/auth/me [36m304[0m 1234.607 ms - -[0m
+[0mGET /api/orders/mine?page=1&limit=1 [36m304[0m 3482.581 ms - -[0m
+[0mGET /api/cart [36m304[0m 2732.709 ms - -[0m
+[0mGET /api/orders/mine?page=1&limit=1 [36m304[0m 2784.295 ms - -[0m
+[0mGET /api/products?limit=24&sort=popularity [36m304[0m 10515.014 ms - -[0m
+[0mGET /api/wishlist [36m304[0m 9853.763 ms - -[0m
+[0mGET /api/products?limit=24&sort=popularity [36m304[0m 4056.927 ms - -[0m
+[0mOPTIONS /api/products/meta/filters [32m204[0m 0.079 ms - 0[0m
+[0mOPTIONS /api/products?page=1&limit=12&sort=popularity [32m204[0m 0.080 ms - 0[0m
+[0mOPTIONS /api/auth/me [32m204[0m 0.073 ms - 0[0m
+[0mGET /api/products/meta/filters [36m304[0m 478.655 ms - -[0m
+[0mGET /api/auth/me [36m304[0m 479.620 ms - -[0m
+[0mOPTIONS /api/cart [32m204[0m 0.048 ms - 0[0m
+[0mOPTIONS /api/wishlist [32m204[0m 0.049 ms - 0[0m
+[0mGET /api/products?page=1&limit=12&sort=popularity [36m304[0m 904.433 ms - -[0m
+[0mGET /api/auth/me [36m304[0m 430.494 ms - -[0m
+[0mGET /api/products/meta/filters [36m304[0m 449.731 ms - -[0m
+[0mGET /api/auth/me [36m304[0m 387.108 ms - -[0m
+[0mGET /api/products?page=1&limit=12&sort=popularity [36m304[0m 734.046 ms - -[0m
+[0mGET /api/auth/me [36m304[0m 358.595 ms - -[0m
+[0mGET /api/products?page=1&limit=12&sort=popularity [36m304[0m 872.702 ms - -[0m
+[0mGET /api/cart [36m304[0m 2946.890 ms - -[0m
+[0mGET /api/wishlist [36m304[0m 2937.557 ms - -[0m
+[0mGET /api/cart [36m304[0m 297.367 ms - -[0m
+[0mGET /api/wishlist [36m304[0m 294.969 ms - -[0m
+[0mOPTIONS /api/products?limit=24&sort=popularity [32m204[0m 0.063 ms - 0[0m
+[0mOPTIONS /api/orders/mine?page=1&limit=1 [32m204[0m 0.027 ms - 0[0m
+[0mOPTIONS /api/auth/me [32m204[0m 0.023 ms - 0[0m
+[0mOPTIONS /api/products?limit=24&sort=popularity [32m204[0m 0.020 ms - 0[0m
+[0mOPTIONS /api/orders/mine?page=1&limit=1 [32m204[0m 0.021 ms - 0[0m
+[0mOPTIONS /api/auth/me [32m204[0m 0.019 ms - 0[0m
+[0mGET /api/auth/me [36m304[0m 409.405 ms - -[0m
+[0mOPTIONS /api/cart [32m204[0m 0.073 ms - 0[0m
+[0mOPTIONS /api/wishlist [32m204[0m 0.061 ms - 0[0m
+[0mGET /api/auth/me [36m304[0m 314.554 ms - -[0m
+[0mGET /api/products?limit=24&sort=popularity [36m304[0m 919.396 ms - -[0m
+[0mGET /api/orders/mine?page=1&limit=1 [36m304[0m 949.052 ms - -[0m
+[0mGET /api/cart [36m304[0m 522.714 ms - -[0m
+[0mGET /api/wishlist [36m304[0m 529.452 ms - -[0m
+[0mGET /api/products?limit=24&sort=popularity [36m304[0m 497.103 ms - -[0m
+[0mGET /api/orders/mine?page=1&limit=1 [36m304[0m 467.360 ms - -[0m
+[0mOPTIONS /api/products?limit=24&sort=popularity [32m204[0m 0.057 ms - 0[0m
+[0mOPTIONS /api/auth/me [32m204[0m 0.051 ms - 0[0m
+[0mOPTIONS /api/products?limit=24&sort=popularity [32m204[0m 0.047 ms - 0[0m
+[0mOPTIONS /api/auth/me [32m204[0m 0.051 ms - 0[0m
+[0mGET /api/auth/me [36m304[0m 152.635 ms - -[0m
+[0mOPTIONS /api/cart [32m204[0m 0.053 ms - 0[0m
+[0mOPTIONS /api/wishlist [32m204[0m 0.040 ms - 0[0m
+[0mGET /api/auth/me [36m304[0m 209.406 ms - -[0m
+[0mGET /api/products?limit=24&sort=popularity [36m304[0m 547.376 ms - -[0m
+[0mGET /api/cart [36m304[0m 491.641 ms - -[0m
+[0mGET /api/wishlist [36m304[0m 507.797 ms - -[0m
+[0mGET /api/products?limit=24&sort=popularity [36m304[0m 861.305 ms - -[0m
+[0mOPTIONS /api/products/meta/filters [32m204[0m 0.154 ms - 0[0m
+[0mOPTIONS /api/products?page=1&limit=12&sort=popularity [32m204[0m 0.055 ms - 0[0m
+[0mOPTIONS /api/products/meta/filters [32m204[0m 0.043 ms - 0[0m
+[0mOPTIONS /api/products?page=1&limit=12&sort=popularity [32m204[0m 0.028 ms - 0[0m
+[0mGET /api/products/meta/filters [36m304[0m 123.424 ms - -[0m
+[0mGET /api/products/meta/filters [36m304[0m 187.568 ms - -[0m
+[0mGET /api/products?page=1&limit=12&sort=popularity [36m304[0m 328.218 ms - -[0m
+[0mGET /api/products?page=1&limit=12&sort=popularity [36m304[0m 251.199 ms - -[0m
+[0mGET /api/products?page=1&limit=12&sort=popularity [36m304[0m 378.410 ms - -[0m
+[0mOPTIONS /api/auth/logout [32m204[0m 0.090 ms - 0[0m
+[0mPOST /api/auth/logout [32m200[0m 0.679 ms - 40[0m
+[0mGET /api/products?limit=24&sort=popularity [36m304[0m 594.073 ms - -[0m
+[0mGET /api/products?limit=24&sort=popularity [36m304[0m 306.879 ms - -[0m
+[0mGET /api/products/meta/filters [36m304[0m 178.746 ms - -[0m
+[0mGET /api/products/meta/filters [36m304[0m 168.634 ms - -[0m
+[0mGET /api/products?page=1&limit=12&sort=popularity [36m304[0m 496.875 ms - -[0m
+[0mGET /api/products?page=1&limit=12&sort=popularity [36m304[0m 220.167 ms - -[0m
+[0mGET /api/products?page=1&limit=12&sort=popularity [36m304[0m 286.083 ms - -[0m
+[0mOPTIONS /api/products?limit=24&sort=popularity [32m204[0m 0.215 ms - 0[0m
+[0mOPTIONS /api/orders/mine?page=1&limit=1 [32m204[0m 0.151 ms - 0[0m
+[0mOPTIONS /api/orders/mine?page=1&limit=1 [32m204[0m 0.127 ms - 0[0m
+[0mOPTIONS /api/auth/me [32m204[0m 0.110 ms - 0[0m
+[0mOPTIONS /api/auth/me [32m204[0m 0.136 ms - 0[0m
+[0mGET /api/auth/me [36m304[0m 111.991 ms - -[0m
+[0mGET /api/auth/me [36m304[0m 71.914 ms - -[0m
+[0mOPTIONS /api/cart [32m204[0m 0.167 ms - 0[0m
+[0mOPTIONS /api/wishlist [32m204[0m 0.087 ms - 0[0m
+[0mGET /api/products?limit=24&sort=popularity [36m304[0m 317.735 ms - -[0m
+[0mGET /api/orders/mine?page=1&limit=1 [36m304[0m 314.438 ms - -[0m
+[0mGET /api/cart [36m304[0m 211.660 ms - -[0m
+[0mGET /api/wishlist [36m304[0m 212.614 ms - -[0m
+[0mGET /api/orders/mine?page=1&limit=1 [36m304[0m 377.605 ms - -[0m
+[0mGET /api/products?limit=24&sort=popularity [36m304[0m 396.799 ms - -[0m
+[0mOPTIONS /api/products?limit=24&sort=popularity [32m204[0m 0.813 ms - 0[0m
+[0mOPTIONS /api/orders/mine?page=1&limit=1 [32m204[0m 0.136 ms - 0[0m
+[0mOPTIONS /api/auth/me [32m204[0m 0.092 ms - 0[0m
+[0mOPTIONS /api/products?limit=24&sort=popularity [32m204[0m 0.149 ms - 0[0m
+[0mOPTIONS /api/orders/mine?page=1&limit=1 [32m204[0m 0.133 ms - 0[0m
+[0mOPTIONS /api/auth/me [32m204[0m 0.190 ms - 0[0m
+[0mGET /api/products?limit=24&sort=popularity [36m304[0m 6969.947 ms - -[0m
+[0mGET /api/auth/me [36m304[0m 7675.579 ms - -[0m
+[0mOPTIONS /api/cart [32m204[0m 0.087 ms - 0[0m
+[0mOPTIONS /api/wishlist [32m204[0m 0.194 ms - 0[0m
+[0mGET /api/auth/me [36m304[0m 193.410 ms - -[0m
+[0mGET /api/orders/mine?page=1&limit=1 [36m304[0m 8043.561 ms - -[0m
+[0mGET /api/cart [36m304[0m 340.724 ms - -[0m
+[0mGET /api/wishlist [36m304[0m 354.340 ms - -[0m
+[0mGET /api/products?limit=24&sort=popularity [36m304[0m 1427.361 ms - -[0m
+[0mGET /api/orders/mine?page=1&limit=1 [36m304[0m 349.766 ms - -[0m
+[0mOPTIONS /api/products?limit=24&sort=popularity [32m204[0m 0.147 ms - 0[0m
+[0mOPTIONS /api/orders/mine?page=1&limit=1 [32m204[0m 0.120 ms - 0[0m
+[0mOPTIONS /api/auth/me [32m204[0m 0.082 ms - 0[0m
+[0mOPTIONS /api/auth/me [32m204[0m 0.263 ms - 0[0m
+[0mOPTIONS /api/orders/mine?page=1&limit=1 [32m204[0m 0.145 ms - 0[0m
+[0mGET /api/auth/me [36m304[0m 95.885 ms - -[0m
+[0mGET /api/auth/me [36m304[0m 85.813 ms - -[0m
+[0mGET /api/products?limit=24&sort=popularity [36m304[0m 305.371 ms - -[0m
+[0mOPTIONS /api/cart [32m204[0m 0.177 ms - 0[0m
+[0mOPTIONS /api/wishlist [32m204[0m 0.192 ms - 0[0m
+[0mGET /api/products?limit=24&sort=popularity [36m304[0m 176.054 ms - -[0m
+[0mGET /api/cart [36m304[0m 155.335 ms - -[0m
+[0mGET /api/wishlist [36m304[0m 192.357 ms - -[0m
+[0mGET /api/orders/mine?page=1&limit=1 [36m304[0m 802.594 ms - -[0m
+[0mGET /api/orders/mine?page=1&limit=1 [36m304[0m 235.161 ms - -[0m
+[0mPOST /api/auth/login [32m200[0m 741.564 ms - 645[0m
+[0mGET /api/products?limit=1 [32m200[0m 172.189 ms - 1080[0m
+[0mPOST /api/cart [33m404[0m 166.298 ms - 268[0m
+[0mPOST /api/orders [33m400[0m 245.678 ms - 263[0m
+[0mPOST /api/auth/login [32m200[0m 927.513 ms - 645[0m
+[0mGET /api/products?limit=3&fields=_id [32m200[0m 177.352 ms - 3383[0m
+[0mGET /api/products?limit=1 [32m200[0m 179.720 ms - 1080[0m
+[0mPOST /api/cart [33m404[0m 180.395 ms - 268[0m
+[0mGET /api/products?limit=1 [32m200[0m 175.938 ms - 1080[0m
+[0mGET /api/products/6ab9537e3bb0525aa8749222 [32m200[0m 151.481 ms - 1019[0m
+[0mPOST /api/auth/login [32m200[0m 783.616 ms - 645[0m
+[0mPOST /api/cart [32m200[0m 629.334 ms - 1111[0m
+⚠ EMAIL_HOST/EMAIL_USER not set — emails will be logged to console.
+
+════════ 📧 EMAIL (console mode) ════════
+To: user@gadgethub.io
+Subject: Order confirmed — GH-2026-000001
+ Gadget Hub ATELIER Thank you for your order! Order GH-2026-000001 is confirmed and being prepared. Total: ₹11,231 • Items: 1 View order & invoice If you did not request this, you can safely ignore this email. © 2026 Gadget Hub. All rights reserved. 
+════════════════════════════════════════
+
+[0mPOST /api/orders [32m201[0m 975.935 ms - 979[0m
+[0mPOST /api/auth/login [32m200[0m 736.124 ms - 649[0m
+[0mPOST /api/auth/login [32m200[0m 716.141 ms - 645[0m
+[0mGET /api/orders/mine?limit=1 [32m200[0m 263.684 ms - 1023[0m
+[0mPUT /api/orders/6aba3e55305f378842ff5893/status [33m404[0m 262.147 ms - 258[0m
+[0mPUT /api/orders/6aba3e55305f378842ff5893/status [33m404[0m 238.314 ms - 258[0m
+[0mPUT /api/orders/6aba3e55305f378842ff5893/status [33m404[0m 278.002 ms - 258[0m
+[0mPOST /api/auth/login [32m200[0m 1371.659 ms - 649[0m
+[0mGET /api/orders/all?limit=2 [32m200[0m 1557.253 ms - 1079[0m
+[0mGET /api/orders/all?limit=1 [32m200[0m 412.877 ms - 1079[0m
+[0mPOST /api/auth/login [32m200[0m 741.554 ms - 649[0m
+
+════════ 📧 EMAIL (console mode) ════════
+To: user@gadgethub.io
+Subject: Order GH-2026-000001 — PROCESSING
+ Gadget Hub ATELIER Your order is processing Order GH-2026-000001 status is now PROCESSING . Track order If you did not request this, you can safely ignore this email. © 2026 Gadget Hub. All rights reserved. 
+════════════════════════════════════════
+
+[0mPUT /api/orders/6aba3e55305f378842ff5892/status [32m200[0m 460.307 ms - 1123[0m
+
+════════ 📧 EMAIL (console mode) ════════
+To: user@gadgethub.io
+Subject: Order GH-2026-000001 — SHIPPED
+ Gadget Hub ATELIER Your order is shipped Order GH-2026-000001 status is now SHIPPED . Track order If you did not request this, you can safely ignore this email. © 2026 Gadget Hub. All rights reserved. 
+════════════════════════════════════════
+
+[0mPUT /api/orders/6aba3e55305f378842ff5892/status [32m200[0m 460.134 ms - 1203[0m
+[0mOPTIONS /api/auth/me [32m204[0m 0.146 ms - 0[0m
+[0mOPTIONS /api/auth/me [32m204[0m 0.111 ms - 0[0m
+[0mGET /api/auth/me [36m304[0m 100.501 ms - -[0m
+[0mOPTIONS /api/orders/mine?limit=20 [32m204[0m 0.221 ms - 0[0m
+[0mOPTIONS /api/cart [32m204[0m 0.118 ms - 0[0m
+[0mOPTIONS /api/wishlist [32m204[0m 0.092 ms - 0[0m
+[0mGET /api/auth/me [36m304[0m 92.168 ms - -[0m
+[0mGET /api/cart [36m304[0m 160.308 ms - -[0m
+[0mGET /api/wishlist [36m304[0m 163.063 ms - -[0m
+[0mGET /api/orders/mine?limit=20 [32m200[0m 257.821 ms - 108[0m
+[0mGET /api/orders/mine?limit=20 [36m304[0m 310.643 ms - -[0m
+[0mOPTIONS /api/auth/login [32m204[0m 0.260 ms - 0[0m
+[0mPOST /api/auth/login [32m200[0m 753.088 ms - 645[0m
+[0mOPTIONS /api/auth/me [32m204[0m 0.169 ms - 0[0m
+[0mGET /api/auth/me [32m200[0m 371.966 ms - 424[0m
+[0mOPTIONS /api/orders/mine?limit=20 [32m204[0m 0.187 ms - 0[0m
+[0mOPTIONS /api/cart [32m204[0m 0.122 ms - 0[0m
+[0mOPTIONS /api/wishlist [32m204[0m 0.096 ms - 0[0m
+[0mGET /api/auth/me [36m304[0m 246.482 ms - -[0m
+[0mGET /api/cart [32m200[0m 471.775 ms - 219[0m
+[0mGET /api/wishlist [36m304[0m 473.659 ms - -[0m
+[0mGET /api/orders/mine?limit=20 [32m200[0m 691.634 ms - 1196[0m
+[0mGET /api/orders/mine?limit=20 [36m304[0m 722.471 ms - -[0m
+[0mOPTIONS /api/auth/login [32m204[0m 0.393 ms - 0[0m
+[0mPOST /api/auth/login [32m200[0m 719.768 ms - 649[0m
+[0mOPTIONS /api/admin/stats [32m204[0m 0.189 ms - 0[0m
+[0mOPTIONS /api/analytics?days=30 [32m204[0m 0.146 ms - 0[0m
+[0mOPTIONS /api/cart [32m204[0m 0.136 ms - 0[0m
+[0mOPTIONS /api/wishlist [32m204[0m 0.095 ms - 0[0m
+[0mOPTIONS /api/analytics?days=30 [32m204[0m 0.089 ms - 0[0m
+[0mGET /api/wishlist [36m304[0m 191.438 ms - -[0m
+[0mGET /api/cart [32m200[0m 199.554 ms - 219[0m
+[0mGET /api/analytics?days=30 [32m200[0m 429.696 ms - 195[0m
+[0mGET /api/analytics?days=30 [36m304[0m 406.412 ms - -[0m
+[0mGET /api/admin/stats [32m200[0m 904.681 ms - 156[0m
+[0mGET /api/admin/stats [36m304[0m 329.717 ms - -[0m
+[0mOPTIONS /api/auth/logout [32m204[0m 0.135 ms - 0[0m
+[0mPOST /api/auth/logout [32m200[0m 0.578 ms - 40[0m
+[0mGET /api/products?limit=24&sort=popularity [32m200[0m 293.682 ms - 24333[0m
+[0mGET /api/products?limit=24&sort=popularity [36m304[0m 216.506 ms - -[0m
+✗ Error: Error: Not allowed by CORS
+    at origin (file:///C:/Users/USER/Downloads/nas/server/server.js:45:10)
+    at C:\Users\USER\Downloads\nas\server\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (C:\Users\USER\Downloads\nas\server\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (C:\Users\USER\Downloads\nas\server\node_modules\cors\lib\index.js:204:7)
+    at Layer.handle [as handle_request] (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:286:9
+    at router.process_params (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\USER\Downloads\nas\server\node_modules\morgan\index.js:177:5)
+[0mGET /api/products?limit=24&sort=popularity [31m500[0m 4.596 ms - 256[0m
+✗ Error: Error: Not allowed by CORS
+    at origin (file:///C:/Users/USER/Downloads/nas/server/server.js:45:10)
+    at C:\Users\USER\Downloads\nas\server\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (C:\Users\USER\Downloads\nas\server\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (C:\Users\USER\Downloads\nas\server\node_modules\cors\lib\index.js:204:7)
+    at Layer.handle [as handle_request] (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:286:9
+    at router.process_params (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\USER\Downloads\nas\server\node_modules\morgan\index.js:177:5)
+[0mGET /api/products?limit=24&sort=popularity [31m500[0m 1.310 ms - 256[0m
+✗ Error: Error: Not allowed by CORS
+    at origin (file:///C:/Users/USER/Downloads/nas/server/server.js:45:10)
+    at C:\Users\USER\Downloads\nas\server\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (C:\Users\USER\Downloads\nas\server\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (C:\Users\USER\Downloads\nas\server\node_modules\cors\lib\index.js:204:7)
+    at Layer.handle [as handle_request] (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:286:9
+    at router.process_params (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\USER\Downloads\nas\server\node_modules\morgan\index.js:177:5)
+[0mGET /api/products/meta/filters [31m500[0m 0.745 ms - 256[0m
+✗ Error: Error: Not allowed by CORS
+    at origin (file:///C:/Users/USER/Downloads/nas/server/server.js:45:10)
+    at C:\Users\USER\Downloads\nas\server\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (C:\Users\USER\Downloads\nas\server\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (C:\Users\USER\Downloads\nas\server\node_modules\cors\lib\index.js:204:7)
+    at Layer.handle [as handle_request] (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:286:9
+    at router.process_params (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\USER\Downloads\nas\server\node_modules\morgan\index.js:177:5)
+[0mGET /api/products?page=1&limit=12&sort=popularity [31m500[0m 0.988 ms - 256[0m
+✗ Error: Error: Not allowed by CORS
+    at origin (file:///C:/Users/USER/Downloads/nas/server/server.js:45:10)
+    at C:\Users\USER\Downloads\nas\server\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (C:\Users\USER\Downloads\nas\server\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (C:\Users\USER\Downloads\nas\server\node_modules\cors\lib\index.js:204:7)
+    at Layer.handle [as handle_request] (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:286:9
+    at router.process_params (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\USER\Downloads\nas\server\node_modules\morgan\index.js:177:5)
+[0mGET /api/products/meta/filters [31m500[0m 0.774 ms - 256[0m
+✗ Error: Error: Not allowed by CORS
+    at origin (file:///C:/Users/USER/Downloads/nas/server/server.js:45:10)
+    at C:\Users\USER\Downloads\nas\server\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (C:\Users\USER\Downloads\nas\server\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (C:\Users\USER\Downloads\nas\server\node_modules\cors\lib\index.js:204:7)
+    at Layer.handle [as handle_request] (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:286:9
+    at router.process_params (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\USER\Downloads\nas\server\node_modules\morgan\index.js:177:5)
+[0mGET /api/products?page=1&limit=12&sort=popularity [31m500[0m 0.874 ms - 256[0m
+✗ Error: Error: Not allowed by CORS
+    at origin (file:///C:/Users/USER/Downloads/nas/server/server.js:45:10)
+    at C:\Users\USER\Downloads\nas\server\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (C:\Users\USER\Downloads\nas\server\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (C:\Users\USER\Downloads\nas\server\node_modules\cors\lib\index.js:204:7)
+    at Layer.handle [as handle_request] (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:286:9
+    at router.process_params (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\USER\Downloads\nas\server\node_modules\morgan\index.js:177:5)
+[0mGET /api/products?page=1&limit=12&sort=popularity [31m500[0m 1.102 ms - 256[0m
+✗ Error: Error: Not allowed by CORS
+    at origin (file:///C:/Users/USER/Downloads/nas/server/server.js:45:10)
+    at C:\Users\USER\Downloads\nas\server\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (C:\Users\USER\Downloads\nas\server\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (C:\Users\USER\Downloads\nas\server\node_modules\cors\lib\index.js:204:7)
+    at Layer.handle [as handle_request] (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:286:9
+    at router.process_params (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\USER\Downloads\nas\server\node_modules\morgan\index.js:177:5)
+[0mGET /api/products?limit=24&sort=popularity [31m500[0m 0.778 ms - 256[0m
+✗ Error: Error: Not allowed by CORS
+    at origin (file:///C:/Users/USER/Downloads/nas/server/server.js:45:10)
+    at C:\Users\USER\Downloads\nas\server\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (C:\Users\USER\Downloads\nas\server\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (C:\Users\USER\Downloads\nas\server\node_modules\cors\lib\index.js:204:7)
+    at Layer.handle [as handle_request] (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:286:9
+    at router.process_params (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\USER\Downloads\nas\server\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\USER\Downloads\nas\server\node_modules\morgan\index.js:177:5)
+[0mGET /api/products?limit=24&sort=popularity [31m500[0m 0.738 ms - 256[0m
